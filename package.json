@@ -1,0 +1,15 @@
+{
+	"name": "rdx",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "electron ."
+	},
+	"author": "w3bh4ck",
+	"license": "ISC",
+	"dependencies": {
+		"electron": "^13.1.2"
+	}
+}
